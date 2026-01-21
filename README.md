@@ -38,4 +38,5 @@ git commit -m "Readme file created!"
 This section was added in the feature branch.
 
 ## Conflict Demo
-Original line
+Change from branch B
+
