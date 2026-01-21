@@ -1,4 +1,4 @@
-TEMP CHANGE - SHOULD BE DISCARDED
+BAD COMMIT - NEEDS REVERT
 
 # Git Initialization and First Commit
 
