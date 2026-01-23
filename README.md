@@ -1,5 +1,3 @@
-BAD COMMIT - NEEDS REVERT
-
 # Git Initialization and First Commit
 
 ## Objective
